@@ -2,6 +2,8 @@
 What I am reading on a day to day basis in Deep Learning?
 
 ## 04/04/2021
+[An annotation-free whole-slide training approach to pathological classification of lung cancer types using deep learning](https://www.nature.com/articles/s41467-021-21467-y/) - Chi-Long Chen, Chi-Chung Chen, Wei-Hsiang Yu, Szu-Hua Chen, Yu-Chan Chang, Tai-I Hsu, Michael Hsiao, Chao-Yuan Yeh & Cheng-Yu Chen
+
 [Novel deep learning algorithm predicts the status of molecular pathways and key mutations in colorectal cancer from routine histology images](https://www.medrxiv.org/content/10.1101/2021.01.19.21250122v1.full) - Mohsin Bilal, Shan E Ahmed Raza, Ayesha Azam, Simon Graham, Muhammad Ilyas, Ian A. Cree, David Snead, Fayyaz Minhas, Nasir M. Rajpoot
 
 [Identification of prognostic spatial organization features in colorectal cancer microenvironment using deep learning on histopathology images](https://www.sciencedirect.com/science/article/pii/S2590124921000043) - Lin Qi, Jia Ke, Zhaoliang Yu, Yi Cao, Yuni Lai, Yufeng Chen, Feng Gao, Xin Wang
